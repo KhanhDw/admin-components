@@ -1,0 +1,460 @@
+Uri: http://maps.google.com/maps/api/js
+File Name: C:\Downloaded Web Sites\stackbros.in\maps\api\js
+Content Type: text/javascript
+
+Uri: https://apexcharts.com/samples/assets/irregular-data-series.js
+File Name: C:\Downloaded Web Sites\stackbros.in\samples\assets\irregular-data-series.js
+Content Type: application/javascript
+
+Uri: https://apexcharts.com/samples/assets/ohlc.js
+File Name: C:\Downloaded Web Sites\stackbros.in\samples\assets\ohlc.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+File Name: C:\Downloaded Web Sites\stackbros.in\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://stackbros.in/taplox/assets/css/icons.min.css
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\css\icons.min.css
+Content Type: text/css
+
+Uri: https://stackbros.in/taplox/assets/css/style.min.css
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://stackbros.in/taplox/assets/css/vendor.min.css
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\css\vendor.min.css
+Content Type: text/css
+
+Uri: https://stackbros.in/taplox/assets/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackbros.in/taplox/assets/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://stackbros.in/taplox/assets/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://stackbros.in/taplox/assets/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://stackbros.in/taplox/assets/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://stackbros.in/taplox/assets/images/404.svg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\404.svg
+Content Type: image/svg+xml
+
+Uri: https://stackbros.in/taplox/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://stackbros.in/taplox/assets/images/logo-dark.png
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\logo-dark.png
+Content Type: image/png
+
+Uri: https://stackbros.in/taplox/assets/images/logo-light.png
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\logo-light.png
+Content Type: image/png
+
+Uri: https://stackbros.in/taplox/assets/images/logo-sm.png
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\logo-sm.png
+Content Type: image/png
+
+Uri: https://stackbros.in/taplox/assets/images/small/img-1.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\small\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/small/img-10.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\small\img-10.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/small/img-2.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\small\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/small/img-3.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\small\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/small/img-4.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\small\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/small/img-5.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\small\img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/small/img-6.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\small\img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/small/img-7.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\small\img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/small/img-8.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\small\img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/small/img-9.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\small\img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/users/avatar-1.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\users\avatar-1.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/users/avatar-2.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\users\avatar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/users/avatar-3.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\users\avatar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/users/avatar-4.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\users\avatar-4.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/users/avatar-5.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\users\avatar-5.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/users/avatar-6.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\users\avatar-6.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/users/avatar-7.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\users\avatar-7.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/users/avatar-8.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\users\avatar-8.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/images/users/avatar-9.jpg
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\images\users\avatar-9.jpg
+Content Type: image/jpeg
+
+Uri: https://stackbros.in/taplox/assets/js/app.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\app.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/config.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\config.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/chart.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\chart.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/dashboard.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\dashboard.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/form-fileupload.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\form-fileupload.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/form-flatepicker.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\form-flatepicker.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/form-quilljs.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\form-quilljs.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/maps-canada.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\maps-canada.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/maps-google.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\maps-google.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/maps-iraq.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\maps-iraq.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/maps-russia.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\maps-russia.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/maps-spain.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\maps-spain.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/maps-vector.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\maps-vector.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/pages/table-gridjs.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\pages\table-gridjs.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/js/vendor.min.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\js\vendor.min.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/vendor/gmaps/gmaps.min.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\vendor\gmaps\gmaps.min.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/vendor/gridjs/gridjs.umd.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\vendor\gridjs\gridjs.umd.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/vendor/gridjs/theme/mermaid.min.css
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\vendor\gridjs\theme\mermaid.min.css
+Content Type: text/css
+
+Uri: https://stackbros.in/taplox/assets/vendor/jsvectormap/js/jsvectormap.min.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\vendor\jsvectormap\js\jsvectormap.min.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/vendor/jsvectormap/maps/world-merc.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\vendor\jsvectormap\maps\world-merc.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/assets/vendor/jsvectormap/maps/world.js
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\assets\vendor\jsvectormap\maps\world.js
+Content Type: text/javascript
+
+Uri: https://stackbros.in/taplox/auth-lock-screen.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\auth-lock-screen.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/auth-password.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\auth-password.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/auth-signin.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\auth-signin.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/auth-signup.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\auth-signup.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/charts.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\charts.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/forms-basic.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\forms-basic.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/forms-editors.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\forms-editors.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/forms-fileuploads.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\forms-fileuploads.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/forms-flatpicker.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\forms-flatpicker.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/forms-validation.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\forms-validation.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/icons-boxicons.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\icons-boxicons.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/icons-solar.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\icons-solar.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/index.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\index.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/layouts-dark-sidenav.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\layouts-dark-sidenav.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/layouts-dark-topnav.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\layouts-dark-topnav.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/layouts-dark.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\layouts-dark.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/layouts-hidden-sidenav.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\layouts-hidden-sidenav.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/layouts-small-sidenav.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\layouts-small-sidenav.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/maps-google.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\maps-google.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/maps-vector.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\maps-vector.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/pages-404-alt.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\pages-404-alt.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/pages-404.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\pages-404.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/tables-basic.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\tables-basic.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/tables-gridjs.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\tables-gridjs.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-accordion.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-accordion.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-alerts.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-alerts.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-avatar.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-avatar.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-badge.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-badge.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-breadcrumb.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-breadcrumb.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-buttons.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-buttons.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-card.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-card.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-carousel.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-carousel.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-collapse.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-collapse.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-dropdown.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-dropdown.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-list-group.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-list-group.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-modal.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-modal.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-offcanvas.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-offcanvas.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-pagination.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-pagination.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-placeholders.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-placeholders.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-popovers.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-popovers.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-progress.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-progress.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-scrollspy.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-scrollspy.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-spinners.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-spinners.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-tabs.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-tabs.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-toasts.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-toasts.html.htm
+Content Type: text/html
+
+Uri: https://stackbros.in/taplox/ui-tooltips.html
+File Name: C:\Downloaded Web Sites\stackbros.in\taplox\ui-tooltips.html.htm
+Content Type: text/html
+
